@@ -1,0 +1,31 @@
+# Local and generated files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Exploratory local notebooks kept out of the portfolio repository
+01_house_prices_eda_baseline.ipynb
+02_open_submission.ipynb
+feature_glossary_ja.csv
+missing_value_meaning_ja.csv
+
+# Kaggle data and archives
+train.csv
+test.csv
+sample_submission.csv
+house-prices-advanced-regression-techniques.zip
+
+# Generated predictions and intermediate experiment outputs
+submission_*.csv
+*_predictions*.csv
+*_results.csv
+*_summary.csv
+*_importance.csv
+train_test_*drift.csv
+
+# Optional local environments
+.env
+.venv/
+env/
+venv/
