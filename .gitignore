@@ -9,6 +9,8 @@ __pycache__/
 02_open_submission.ipynb
 feature_glossary_ja.csv
 missing_value_meaning_ja.csv
+data_description.txt
+figures/
 
 # Kaggle data and archives
 train.csv
